@@ -1,0 +1,139 @@
+.main-body{
+    width: 100%;
+    height: 750px;
+    
+
+}
+
+.left-section{
+    width: 50%;
+    height: 750px;
+    background-color:#ebedf0;
+    float: left;
+}
+.right-section{
+    width: 50%;
+    height: 750px;
+    background-color: #ebedf0;
+    float: left;
+    
+}
+body{
+    margin: 0;
+}
+.logo{
+    width: 312px;
+    padding-top: 270px;
+    padding-left: 59px;
+
+}
+.h2{
+padding-left: 88px;
+padding-left: 88px;
+    font-size: 24px;
+    line-height: 28px;
+    width: auto;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+}
+.login{
+    
+    width: 53%;
+    height: 367px;
+    background-color: white;
+    margin-top: 211px;
+    border-radius: 13px;
+    margin-left: 57px;
+
+}
+.inputtext{
+    border-radius: 6px;
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 334px;
+    margin-left: 15px;
+    margin-top: 16px;
+    border-color: hsl(225, 5%, 85%);
+    border: 1px solid;
+   
+}
+.inputtext:focus{
+    outline: none;
+    color: #0659df;
+}
+.button-log{
+    background-color: #2b7de8;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    width: 332px;
+    margin-left: 16px;
+    margin-top: 18px;
+    width: 367px;
+    color: white;
+}
+.button-log:hover{
+    background-color: #246fe8;
+}
+.Forgotten{
+    padding-left: 140px;
+    padding-top: 23px;
+    color: #1877f2;
+    padding-top: 37px;
+}
+
+
+.buttonCreataccount{
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    width: 332px;
+    margin-left: 77px;
+    margin-top: 18px;
+    width: 226px;
+    height: 50px;
+    color: white;
+    background-color: #00a400;
+}
+.buttonCreataccount:hover{
+    background-color: hsl(109, 92%, 29%);
+}
+.creatpage{
+
+    color: black;
+    padding-left: 101px;
+    padding-top: 20px;
+}
+.footer{
+    width: 980px;
+    height: 150px;
+    margin: 0 auto;
+    
+}
+.footer>ul>li{
+    display: inline-block;
+    margin: 0 8px;
+}
+
+.footer>ul{
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+
+.button-plus{
+    color: #848484;
+    
+    
+}
+.footer>ul>li>a{
+    text-decoration: none;
+    color: #848484;
+    width: 5px;
+    font-size: 12px;
+}
+.divider{
+    padding-left: 46px;
+    color: #848484;
+}
